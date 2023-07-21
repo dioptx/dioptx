@@ -1,8 +1,6 @@
 
 <p align="center">
-<a href="https://github.com/dioptx">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Dionisis+Pettas;Data+Science+Leader+%26+Researcher;AI+%7C+Blockchain+%7C+Fintech" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=100&color=F7931A&multiline=true&width=500&height=80&lines=Dionisis+Pettas;Data+Science+Leader+%26+Researcher;AI+%7C+Blockchain+%7C+Fintech" alt="Typing SVG" /></a>
 
 <br/>
 <a href="https://dioptx.com">
