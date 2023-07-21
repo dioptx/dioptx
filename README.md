@@ -1,10 +1,10 @@
 
 <p align="center">
 <a href="https://github.com/dioptx">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Dionisis+Pettas;Data+Science+Leader+%26+Researcher;AI+%7C+Blockchain+%7C+Fintech)](https://git.io/typing-svg" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Dionisis+Pettas;Data+Science+Leader+%26+Researcher;AI+%7C+Blockchain+%7C+Fintech" alt="Typing SVG" />
 </a>
 
-
+<br/>
 <a href="https://dioptx.com">
     <img src="https://img.shields.io/badge/Website-dioptx.com-red?style=flat-square">
 </a>  
