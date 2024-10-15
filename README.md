@@ -1,28 +1,4 @@
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=100&color=F7931A&multiline=true&width=500&height=80&lines=Dionisis+Pettas;Data+Science+Leader+%26+Researcher;AI+%7C+Blockchain+%7C+Fintech" alt="Typing SVG" /></a>
-
-<br/>
-<a href="https://dioptx.com">
-    <img src="https://img.shields.io/badge/Website-dioptx.com-red?style=flat-square">
-</a>  
-<a href="https://dioptx.com/about">
-    <img src="https://img.shields.io/badge/about-CV-red?style=flat-square">
-</a>  
-<a href="https://www.linkedin.com/in/dionisispettas/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-</a>
-<a href="mailto:dionisis@dioptx.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-</a>
-<br/> 
-
-<a href="https://github.com/dioptx">
-    <img src="https://github-stats-alpha.vercel.app/api?username=dioptx&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
-
-
-</p>
 
 
 ### 🛸 Welcome aboard! 🛸
