@@ -5,14 +5,6 @@
 
 *Curiosity X Creativity X Data*
 
-* 🧠 Helping companies perform data-driven decisions.
-
-* 🎓 Conducting research on **AI** and **Financial Time Series** @ GDX corp.
-
-* 💡 Open to exchange ideas and business opportunities.
-
-* 💻 Currently working on Blockchain Analytics, AI quant systems, and LLMs
-
 📫 Drop me an email at: dionisis@dioptx.com
 
 
