@@ -1,13 +1,8 @@
+### hey, i build things that think
 
+*ai agents · autonomous systems · mass automation*
 
+if it can be automated, i've probably tried.
+if it shouldn't be automated, i've *definitely* tried.
 
-### 🛸 Welcome aboard! 🛸
-
-*Curiosity X Creativity X Data*
-
-- AI Engineering
-- Open source AI tooling
-- Web3 all things Data, Research & Risk
-
-📫 Drop me an email at: dionisis@dioptx.com
-
+currently teaching machines to have opinions.
