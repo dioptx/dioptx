@@ -1,8 +1,8 @@
 ### hey, i build things that think
 
-*ai agents · autonomous systems · mass automation*
+*ai engineering · web3 data · life tools*
 
-if it can be automated, i've probably tried.
-if it shouldn't be automated, i've *definitely* tried.
+if it can be built, i've probably tried.
+if it shouldn't be built, i've *definitely* tried.
 
 currently teaching machines to have opinions.
